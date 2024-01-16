@@ -152,6 +152,14 @@
   padding: 25px 25px;
 }
 
+.box1-one{
+/* border: 2px solid red; */
+margin-left: 300px;
+margin-right: 300px;
+margin-bottom: 25px;
+
+}
+
 .us-items{
   align-content: center;
   
@@ -274,6 +282,15 @@ input[type=submit]:hover {
       .popurlar-site-img img{
         width: 100%;
       }
+      .here-travel-one{
+        margin-left: 140px;
+      }
+      .box1-one{
+        /* border: 2px solid red; */
+        margin: 0 auto;
+        margin-bottom: 25px;
+        
+        }
   }
   
   @media screen and (min-width: 600px) and (max-width: 996px) {
@@ -319,4 +336,11 @@ flex-direction: column;
 .here-travel-one{
   margin-left: 250px;
 }
+
+.box1-one{
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  margin-bottom: 25px;
+  
+  }
   }
